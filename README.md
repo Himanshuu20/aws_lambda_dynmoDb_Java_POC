@@ -1,1 +1,1 @@
-# aws_lambda_dynmoDb_Java_POC
+# aws_lambda_dynamodb_java_poc
